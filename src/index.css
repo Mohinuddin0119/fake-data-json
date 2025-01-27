@@ -1,0 +1,22 @@
+.card-img{
+    width: 96px;
+    border-radius:10px;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+}
+.card-footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.add-btn{
+    padding: 5px;
+    height: 30px;
+    border: 1px solid seagreen;
+    background-color: #10c287;
+    border: none;
+    border-radius: 10px ;
+}
