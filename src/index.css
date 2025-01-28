@@ -14,9 +14,15 @@
 }
 .add-btn{
     padding: 5px;
-    height: 30px;
-    border: 1px solid seagreen;
     background-color: #10c287;
     border: none;
     border-radius: 10px ;
+    font-size: 20px;
+}
+.del-btn{
+    padding-inline: 3px;
+    background-color:red;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 3px;
 }
